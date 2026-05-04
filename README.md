@@ -1,4 +1,4 @@
-Smart Study Planner (Java)
+🧠 Smart Study Planner Using Java
  
 The Smart Study Planner is a console-based Java application designed to help students efficiently organize and manage their study schedules.
 Users can add subjects by specifying details such as difficulty level, number of topics, and remaining days until deadlines. 
